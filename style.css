@@ -22,6 +22,22 @@
   border-radius: 10px;
   font-size: 15px;
 }
-/* button img{
-  width: 22%;
-} */
+.container h5 a{
+  color: orange;
+  text-decoration: none;
+}
+.card{
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px lightgray;
+}
+.card-footer{
+  border: none;
+  background-color: white;
+}
+p{
+  color: gray;
+  
+}
+.card-text{
+  text-align: justify;
+}
